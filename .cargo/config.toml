@@ -1,0 +1,2 @@
+[env]
+RUST_TEST_NOCAPTURE = { value = "1", force = true }

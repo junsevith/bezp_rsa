@@ -1,0 +1,11 @@
+[package]
+name = "rsa"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+num-bigint = "0.4.5"
+num-prime = "0.4.4"
+num-integer = "0.1.46"
+rand = "0.8.5"
